@@ -23,16 +23,13 @@
     {
       "day": 6,
       "id": 6
+    },
+    {
+      "day": 7,
+      "id": 7
     }
   ],
   "words": [
-    {
-      "id": 2,
-      "day": 2,
-      "eng": "school",
-      "kor": "학교",
-      "isDone": false
-    },
     {
       "id": 3,
       "day": 3,
@@ -48,13 +45,6 @@
       "isDone": true
     },
     {
-      "id": 5,
-      "day": 2,
-      "eng": "school",
-      "kor": "학교",
-      "isDone": true
-    },
-    {
       "id": 6,
       "day": 3,
       "eng": "pencil",
@@ -63,31 +53,45 @@
     },
     {
       "day": "1",
-      "eng": "",
-      "kor": "",
+      "eng": "monkey",
+      "kor": "원숭이",
       "isDone": false,
-      "id": 7
+      "id": 11
     },
     {
-      "day": "1",
-      "eng": "",
-      "kor": "",
+      "day": "2",
+      "eng": "resume",
+      "kor": "이력서",
       "isDone": false,
-      "id": 8
+      "id": 12
     },
     {
-      "day": "1",
-      "eng": "뀨",
-      "kor": "우",
-      "isDone": false,
-      "id": 9
+      "day": "2",
+      "eng": "banana",
+      "kor": "바나나",
+      "isDone": true,
+      "id": 13
     },
     {
-      "day": "1",
-      "eng": "",
-      "kor": "",
+      "day": "3",
+      "eng": "dog",
+      "kor": "개",
       "isDone": false,
-      "id": 10
+      "id": 14
+    },
+    {
+      "day": "4",
+      "eng": "sun",
+      "kor": "태양",
+      "isDone": false,
+      "id": 15
+    },
+    {
+      "day": "6",
+      "eng": "cat",
+      "kor": "고양이",
+      "isDone": false,
+      "id": 16
     }
   ]
 }

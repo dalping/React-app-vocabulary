@@ -15,18 +15,6 @@
     {
       "day": 4,
       "id": 4
-    },
-    {
-      "day": 5,
-      "id": 5
-    },
-    {
-      "day": 6,
-      "id": 6
-    },
-    {
-      "day": 7,
-      "id": 7
     }
   ],
   "words": [
@@ -43,62 +31,6 @@
       "eng": "school",
       "kor": "학교",
       "isDone": true
-    },
-    {
-      "id": 6,
-      "day": 3,
-      "eng": "pencil",
-      "kor": "연필",
-      "isDone": false
-    },
-    {
-      "day": "1",
-      "eng": "monkey",
-      "kor": "원숭이",
-      "isDone": false,
-      "id": 11
-    },
-    {
-      "day": "2",
-      "eng": "resume",
-      "kor": "이력서",
-      "isDone": false,
-      "id": 12
-    },
-    {
-      "day": "2",
-      "eng": "banana",
-      "kor": "바나나",
-      "isDone": true,
-      "id": 13
-    },
-    {
-      "day": "3",
-      "eng": "dog",
-      "kor": "개",
-      "isDone": false,
-      "id": 14
-    },
-    {
-      "day": "4",
-      "eng": "sun",
-      "kor": "태양",
-      "isDone": false,
-      "id": 15
-    },
-    {
-      "day": "6",
-      "eng": "cat",
-      "kor": "고양이",
-      "isDone": false,
-      "id": 16
-    },
-    {
-      "day": "1",
-      "eng": "",
-      "kor": "",
-      "isDone": false,
-      "id": 17
     }
   ]
 }
